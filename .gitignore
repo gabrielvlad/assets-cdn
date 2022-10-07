@@ -1,0 +1,4 @@
+#root directory:
+.idea/*
+!.idea/codeStyles
+!.idea/runConfigurations
