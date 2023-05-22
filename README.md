@@ -7,7 +7,7 @@
 
 # Assets CDN
 
-This is a simple Pokédex made in React. It uses the [PokéAPI](https://pokeapi.co/) to fetch data about Pokémon. The application was developed using Create React App toolchain.
+This is a simple repo used as a personal CDN, where I can store my assets and use them on my projects.
 
 ## Usage
 
